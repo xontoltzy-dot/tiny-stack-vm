@@ -1,2 +1,0 @@
-eval(process
-.env.A)
